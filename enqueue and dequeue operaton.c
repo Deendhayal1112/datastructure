@@ -75,7 +75,7 @@ int main()
 			case 4:
 				exit(0);
 			default:
-				printf("enter numbers from 1 to 5");
+				printf("enter numbers from 1 to 4");
 		}
 	}while(choice>0 && choice<=4);
 	return 0;		
